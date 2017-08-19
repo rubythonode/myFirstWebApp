@@ -1,0 +1,809 @@
+*** Starting uWSGI 2.0.15 (64bit) on [Fri Aug 18 20:40:58 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+writing pidfile to /tmp/myFirstWebApp.pid
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fdeea802200
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 800272 bytes (781 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fdeea802200 pid: 79543 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 79543)
+spawned uWSGI worker 1 (pid: 79544, cores: 1)
+spawned uWSGI worker 2 (pid: 79545, cores: 1)
+spawned uWSGI worker 3 (pid: 79546, cores: 1)
+spawned uWSGI worker 4 (pid: 79547, cores: 1)
+spawned uWSGI worker 5 (pid: 79548, cores: 1)
+spawned uWSGI worker 6 (pid: 79549, cores: 1)
+spawned uWSGI worker 7 (pid: 79550, cores: 1)
+spawned uWSGI worker 8 (pid: 79551, cores: 1)
+spawned uWSGI worker 9 (pid: 79552, cores: 1)
+spawned uWSGI worker 10 (pid: 79553, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /tmp/myFirstWebApp.sock removed.
+*** Starting uWSGI 2.0.15 (64bit) on [Fri Aug 18 20:42:59 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+writing pidfile to /tmp/myFirstWebApp.pid
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fe962811c00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fe962811c00 pid: 79574 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 79574)
+spawned uWSGI worker 1 (pid: 79575, cores: 1)
+spawned uWSGI worker 2 (pid: 79576, cores: 1)
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 08:15:25 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+writing pidfile to /tmp/myFirstWebApp.pid
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fd95a012c00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fd95a012c00 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80265, cores: 1)
+spawned uWSGI worker 2 (pid: 80266, cores: 1)
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 08:42:24 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+writing pidfile to /tmp/myFirstWebApp.pid
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb7ef014a00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fb7ef014a00 pid: 80513 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 80513)
+spawned uWSGI worker 1 (pid: 80514, cores: 1)
+spawned uWSGI worker 2 (pid: 80515, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /tmp/myFirstWebApp.sock removed.
+...brutally killing workers...
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:13:20 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:13:20 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f8d6d818a00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fad55002c00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fad55002c00 pid: 80264 (default app)
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7f8d6d818a00 pid: 79574 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 79574)
+spawned uWSGI worker 1 (pid: 80688, cores: 1)
+spawned uWSGI worker 1 (pid: 80687, cores: 1)
+spawned uWSGI worker 2 (pid: 80689, cores: 1)
+spawned uWSGI worker 2 (pid: 80690, cores: 1)
+DAMN ! worker 1 (pid: 80688) died :( trying respawn ...
+Respawned uWSGI worker 1 (new pid: 80696)
+DAMN ! worker 2 (pid: 80689) died :( trying respawn ...
+DAMN ! worker 1 (pid: 80687) died :( trying respawn ...
+Respawned uWSGI worker 1 (new pid: 80701)
+Respawned uWSGI worker 2 (new pid: 80700)
+...brutally killing workers...
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+binary reloading uWSGI...
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:44:14 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:44:14 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+thunder lock: disabled (you can enable it with --thunder-lock)
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Address already in use [core/socket.c line 230]
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+unlink(): No such file or directory [core/uwsgi.c line 1597]
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb850800000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fb850800000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80812, cores: 1)
+spawned uWSGI worker 2 (pid: 80813, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:46:56 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fc16e000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fc16e000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80841, cores: 1)
+spawned uWSGI worker 2 (pid: 80842, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:20 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f8fea800000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7f8fea800000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80850, cores: 1)
+spawned uWSGI worker 2 (pid: 80851, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:27 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb35c000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fb35c000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80856, cores: 1)
+spawned uWSGI worker 2 (pid: 80857, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:29 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f7f72000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7f7f72000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80862, cores: 1)
+spawned uWSGI worker 2 (pid: 80863, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:49 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fa02c000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fa02c000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80871, cores: 1)
+spawned uWSGI worker 2 (pid: 80872, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:51 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fe90c818a00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fe90c818a00 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80881, cores: 1)
+spawned uWSGI worker 2 (pid: 80882, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:52 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fbe7e018a00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fbe7e018a00 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80892, cores: 1)
+spawned uWSGI worker 2 (pid: 80893, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:47:55 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb04c000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fb04c000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80898, cores: 1)
+spawned uWSGI worker 2 (pid: 80899, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:48:35 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fc0e5803200
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fc0e5803200 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80909, cores: 1)
+spawned uWSGI worker 2 (pid: 80910, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:48:38 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7faa5d818a00
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7faa5d818a00 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80915, cores: 1)
+spawned uWSGI worker 2 (pid: 80916, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:49:18 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb016800000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fb016800000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80929, cores: 1)
+spawned uWSGI worker 2 (pid: 80930, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:51:12 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7faa75000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7faa75000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80957, cores: 1)
+spawned uWSGI worker 2 (pid: 80958, cores: 1)
+...brutally killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/happy/Django/myFirstWebApp
+closing all non-uwsgi socket fds > 2 (max_fd = 2560)...
+found fd 3 mapped to socket 0 (/tmp/myFirstWebApp.sock)
+running /Users/happy/Django/virtual/bin/uwsgi
+[uWSGI] getting INI configuration from ./config/myFirstWebApp.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Sat Aug 19 01:51:30 2017] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42) on 16 August 2017 19:11:50
+os: Darwin-16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64
+nodename: Challengeui-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /Users/happy/Django/myFirstWebApp
+detected binary path: /Users/happy/Django/virtual/bin/uwsgi
+chdir() to /Users/happy/Django/myFirstWebApp
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/myFirstWebApp.sock fd 3
+Python version: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/happy/Django/virtual
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fdd4d000000
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218256 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fdd4d000000 pid: 80264 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 80264)
+spawned uWSGI worker 1 (pid: 80961, cores: 1)
+spawned uWSGI worker 2 (pid: 80962, cores: 1)
